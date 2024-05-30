@@ -8,3 +8,7 @@
 <p align="center">
 <img src="https://profile-counter.glitch.me/arunkumarayinabathina/count.svg" align="center" background="black">
 </p>
+
+
+
+![GitHub followers](https://img.shields.io/github/followers/arunkumarayinabathina?label=Followers&style=social)

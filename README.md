@@ -11,4 +11,3 @@
 
 
 
-![GitHub followers](https://img.shields.io/github/followers/arunkumarayinabathina?label=Followers&style=social)

@@ -20,7 +20,7 @@ This web application converts text into speech. It uses the Web Speech API to pr
 
 - Daily List Tracker
 
-The Daily List Tracker is a web application designed to help you keep track of your daily tasks and to-dos. It allows you to add, edit, and delete tasks, helping you stay organized and manage your time effectively.
+The Daily List Tracker is a web application designed to help you keep track of your daily tasks and to-dos. It allows you to add and delete tasks, helping you stay organized and manage your time effectively.
 
 [Click here to access the Daily List Tracker](https://dailylisttracker.netlify.app/)
 

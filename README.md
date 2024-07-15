@@ -24,7 +24,7 @@ The Daily List Tracker is a web application designed to help you keep track of y
 
 [Click here to access the Daily List Tracker](https://dailylisttracker.netlify.app/)
 
-- 💬 Ask me about **Html,Css,Js,Python**
+- 💬 Ask me about **Html,Css,Python**
 
 - 📫 How to reach me **arun987610@gmail.com**
 

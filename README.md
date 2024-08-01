@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun Kumar</h1>
 <h3 align="center">Passionated to be a web developer</h3>
 
-<p align="left"> <a href="https://twitter.com/decent_boy____" target="blank"><img src="https://img.shields.io/twitter/follow/decent_boy____?logo=twitter&style=for-the-badge" alt="decent_boy____" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 

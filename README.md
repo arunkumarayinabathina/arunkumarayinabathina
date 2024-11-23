@@ -1,8 +1,35 @@
 <h1 align="center">Hi 👋, I'm Arun Kumar</h1>
 <h3 align="center">Passionated to be a web developer</h3>
 
+# <span style="background-color: #00FF00; color: white; padding: 5px 10px; border-radius: 5px;">Tech Skills</span>
 
-- 🌱 I’m currently learning **React**
+![python](https://img.shields.io/badge/-python-00FF00?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=00FF00)
+
+![Markdown](https://img.shields.io/badge/-Markdown-00FF00?style=for-the-badge&logo=Markdown&logoColor=FFFFFF&labelColor=00FF00)
+
+![git](https://img.shields.io/badge/-git-00FF00?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=00FF00)
+
+![github](https://img.shields.io/badge/-github-00FF00?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=00FF00)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-00FF00?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=00FF00)
+
+![HTML5](https://img.shields.io/badge/html%205-00FF00?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=00FF00)
+
+![CSS3](https://img.shields.io/badge/css%203-00FF00?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=00FF00)
+
+![bootstrap](https://img.shields.io/badge/-bootstrap-00FF00?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&labelColor=00FF00)
+
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-00FF00?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=00FF00)
+
+## <span style="background-color: #00FF00; color: white; padding: 5px 10px; border-radius: 5px;">Basics</span>
+
+![Node.js](https://img.shields.io/badge/-Node.js-00FF00?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=00FF00)
+
+![Express.js](https://img.shields.io/badge/-Express.js-00FF00?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=00FF00)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-00FF00?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&labelColor=00FF00)
+
+![Django](https://img.shields.io/badge/-Django-00FF00?style=for-the-badge&logo=django&logoColor=FFFFFF&labelColor=00FF00)
 
 - 👨‍💻 Web Pages Developed 
 - Calculator

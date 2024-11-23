@@ -36,6 +36,8 @@ The Daily List Tracker is a web application designed to help you keep track of y
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumarayinabathina&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/arunkumarayinabathina/github-readme-stats)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 <p align="center" font-family="Arial Black">Profile visits</p>
 <p align="center">
 <img src="https://profile-counter.glitch.me/arunkumarayinabathina/count.svg" align="center" background="black">

@@ -23,10 +23,6 @@ The Daily List Tracker is a web application designed to help you keep track of y
 
 [Click here to access the Daily List Tracker](https://dailylisttracker.netlify.app/)
 
-- 💬 Ask me about **Html,Css,Python**
-
-- 📫 How to reach me **arun987610@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/decent_boy____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="decent_boy____" height="30" width="40" /></a>
@@ -37,6 +33,8 @@ The Daily List Tracker is a web application designed to help you keep track of y
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumarayinabathina&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/arunkumarayinabathina/github-readme-stats)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+✨[Connect me](arun987610@gmail.com)
 
 <p align="center" font-family="Arial Black">Profile visits</p>
 <p align="center">

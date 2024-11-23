@@ -33,6 +33,9 @@ The Daily List Tracker is a web application designed to help you keep track of y
 <a href="https://linkedin.com/in/arun-kumar-ab68ba231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-kumar-ab68ba231" height="30" width="40" /></a>
 <a href="https://instagram.com/_arun_kumar.6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arun_kumar.6" height="30" width="40" /></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumarayinabathina&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/arunkumarayinabathina/github-readme-stats)
+
 <p align="center" font-family="Arial Black">Profile visits</p>
 <p align="center">
 <img src="https://profile-counter.glitch.me/arunkumarayinabathina/count.svg" align="center" background="black">

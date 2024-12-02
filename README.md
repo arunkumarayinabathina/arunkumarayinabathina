@@ -40,7 +40,7 @@ The Daily List Tracker is a web application designed to help you keep track of y
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <a href="mailto:arun987610@gmail.com?subject=Hello Arun&body=I wanted to discuss...">
-    ✨ [Connect me]
+    ✨ Connect me
 </a>
 
 

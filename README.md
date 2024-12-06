@@ -42,7 +42,7 @@ The Daily List Tracker is a web application designed to help you keep track of y
 <a href="mailto:arun987610@gmail.com?subject=Hello Arun&body=I wanted to discuss...">
     ✨ Connect me
 </a>
-<a href="path/to/resume.pdf" download style="padding:10px 20px; background-color:#007bff; color:white; text-decoration:none; border-radius:5px;">Download My Resume</a>
+
 
 <p align="center" font-family="Arial Black">Profile visits</p>
 <p align="center">

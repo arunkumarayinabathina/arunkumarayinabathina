@@ -9,24 +9,6 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-00FF00?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=00FF00) ![Express.js](https://img.shields.io/badge/-Express.js-00FF00?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=00FF00) ![MongoDB](https://img.shields.io/badge/-MongoDB-00FF00?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&labelColor=00FF00) ![Django](https://img.shields.io/badge/-Django-00FF00?style=for-the-badge&logo=django&logoColor=FFFFFF&labelColor=00FF00)
 
-- 👨‍💻 Web Pages Developed 
-- Calculator
-
-This is a simple calculator web application that allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator has an intuitive interface and is easy to use.
-
-[Click here to access the Calculator](https://arunkumarayinabathina.github.io/calculator/calculator/cal.html)
-
-- Text-To-Speech
-
-This web application converts text into speech. It uses the Web Speech API to provide a simple interface for users to input text and hear it spoken aloud. This can be useful for accessibility purposes or just for fun.
-
-[Click here to access the Text-To-Speech app](https://arunkumarayinabathina.github.io/Text-To-Speech/app.html)
-
-- Daily List Tracker
-
-The Daily List Tracker is a web application designed to help you keep track of your daily tasks and to-dos. It allows you to add and delete tasks, helping you stay organized and manage your time effectively.
-
-[Click here to access the Daily List Tracker](https://dailylisttracker.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

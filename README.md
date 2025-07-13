@@ -22,7 +22,7 @@
 
 <p align="center" font-family="Arial Black">Profile visits</p>
 <p align="center">
-<img src="https://profile-counter.glitch.me/arunkumarayinabathina/count.svg" align="center" background="black">
+<img src="https://komarev.com/ghpvc/?username=arunkumarayinabathina&color=blue" align="center" background="black">
 </p>
 
 

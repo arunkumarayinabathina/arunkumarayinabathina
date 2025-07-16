@@ -20,9 +20,7 @@
 
 ### 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumarayinabathina&theme=default" alt="GitHub Streak" />
-</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunkumarayinabathina&theme=default" />
 </p>

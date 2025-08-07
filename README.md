@@ -10,10 +10,11 @@
 
 
 <p align="center">
-  <a href="mailto:arun987610@gmail.com?subject=Hello Arun&body=Hi Arun, I found your GitHub profile and would love to connect.">
-    <img src="https://img.shields.io/badge/Say%20Hi%20via%20Email-blue?style=for-the-badge&logo=gmail" />
+  <a href="mailto:arun987610@gmail.com?subject=Hello%20Arun&body=Hi%20Arun%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20love%20to%20connect.">
+    <img src="https://img.shields.io/badge/Say%20Hi%20via%20Email-blue?style=for-the-badge&logo=gmail" alt="Email Arun" />
   </a>
 </p>
+
 
 <p align="center">
   <img 
